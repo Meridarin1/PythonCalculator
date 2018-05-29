@@ -4,7 +4,7 @@ from Calculator import Calculator
 def main():
 
     root = Tk()
-
+    #Creating main frame
     Calculator(root)
 
     root.mainloop()
